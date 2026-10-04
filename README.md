@@ -6,7 +6,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-30%20Days-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ![Status](https://img.shields.io/badge/Status-Em%20andamento-22C55E?style=for-the-badge)
-![Progresso](https://img.shields.io/badge/Progresso-2%2F30-2563EB?style=for-the-badge)
+![Progresso](https://img.shields.io/badge/Progresso-4%2F30-2563EB?style=for-the-badge)
 
 **Um desafio pessoal para aprender JavaScript escrevendo código de verdade, fortalecendo a lógica e criando consistência nos estudos.**
 
@@ -35,9 +35,11 @@ A proposta não é decorar código nem apenas assistir aulas. O foco é desenvol
 
 > ✅ **Dia 1 concluído**  
 > ✅ **Dia 2 concluído**  
-> 🚧 **Dia 3 — `while` em andamento**
+> ✅ **Dia 3 — `while` concluído**  
+> ✅ **Dia 4 — `for` + `while` concluído**  
+> 🚧 **Próximo: Dia 5 — lógica**
 
-Até aqui, já pratiquei estruturas de repetição, contadores, acumuladores, operadores, condições e resolução de exercícios combinando esses conceitos.
+Até aqui, já pratiquei estruturas de repetição com `for` e `while`, contadores, acumuladores, operadores, condições e resolução de exercícios combinando esses conceitos.
 
 ---
 
@@ -79,8 +81,8 @@ JavaScript
 
 - [x] Dia 1 — revisão + `for`
 - [x] Dia 2 — `for` na prática: contadores, acumuladores, pares/ímpares e múltiplos
-- [ ] Dia 3 — `while`
-- [ ] Dia 4 — `for` + `while`
+- [x] Dia 3 — `while`
+- [x] Dia 4 — `for` + `while`
 - [ ] Dia 5 — lógica
 - [ ] Dia 6 — mini projeto: sistema de notas
 - [ ] Dia 7 — descanso/revisão
