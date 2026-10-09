@@ -6,7 +6,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-30%20Days-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ![Status](https://img.shields.io/badge/Status-Em%20andamento-22C55E?style=for-the-badge)
-![Progresso](https://img.shields.io/badge/Progresso-4%2F30-2563EB?style=for-the-badge)
+![Progresso](https://img.shields.io/badge/Progresso-5%2F30-2563EB?style=for-the-badge)
 
 **Um desafio pessoal para aprender JavaScript escrevendo código de verdade, fortalecendo a lógica e criando consistência nos estudos.**
 
@@ -37,7 +37,8 @@ A proposta não é decorar código nem apenas assistir aulas. O foco é desenvol
 > ✅ **Dia 2 concluído**  
 > ✅ **Dia 3 — `while` concluído**  
 > ✅ **Dia 4 — `for` + `while` concluído**  
-> 🚧 **Próximo: Dia 5 — lógica**
+> ✅ **Dia 5 — lógica concluído**  
+> 🚧 **Próximo: Dia 6 — mini projeto: sistema de notas**
 
 Até aqui, já pratiquei estruturas de repetição com `for` e `while`, contadores, acumuladores, operadores, condições e resolução de exercícios combinando esses conceitos.
 
@@ -83,7 +84,7 @@ JavaScript
 - [x] Dia 2 — `for` na prática: contadores, acumuladores, pares/ímpares e múltiplos
 - [x] Dia 3 — `while`
 - [x] Dia 4 — `for` + `while`
-- [ ] Dia 5 — lógica
+- [x] Dia 5 — lógica
 - [ ] Dia 6 — mini projeto: sistema de notas
 - [ ] Dia 7 — descanso/revisão
 - [ ] Dia 8 — DOM
@@ -125,6 +126,12 @@ desafio-javascript-30-dias/
 │   └── exercicios.js
 ├── dia-03/
 │   └── exercicios.js
+├── dia-04/
+│   ├── exercicios.js
+│   └── index.html
+├── dia-05/
+│   ├── script.js
+│   └── index.html
 ├── historico/
 ├── .gitignore
 └── README.md
