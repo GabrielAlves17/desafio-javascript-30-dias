@@ -1,0 +1,51 @@
+.ativo{
+    color: green;
+}
+
+.body{
+    background-color: yellowgreen;
+}
+
+.azul {
+  background: blue;
+  color: white;
+}
+
+.alerta{
+    color: red;
+    text-transform:uppercase;
+}
+
+.fraco {
+  opacity: 0.5;
+}
+
+.forte {
+  font-weight: bold;
+}
+
+.claro {
+  background: white;
+}
+
+.escuro {
+  background: black;
+  color: white;
+}
+
+.apagado {
+  opacity: 0.4;
+}
+
+.destaque {
+  font-weight: bold;
+}
+
+.claro {
+  background: white;
+}
+
+.escuro {
+  background: black;
+  color: white;
+}
