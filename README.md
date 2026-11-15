@@ -6,7 +6,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-30%20Days-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ![Status](https://img.shields.io/badge/Status-Em%20andamento-22C55E?style=for-the-badge)
-![Progresso](https://img.shields.io/badge/Progresso-11%2F30-2563EB?style=for-the-badge)
+![Progresso](https://img.shields.io/badge/Progresso-16%2F30-2563EB?style=for-the-badge)
 
 **Um desafio pessoal para aprender JavaScript escrevendo código de verdade, fortalecendo a lógica e criando consistência nos estudos.**
 
@@ -44,9 +44,14 @@ A proposta não é decorar código nem apenas assistir aulas. O foco é desenvol
 > ✅ **Dia 9 — `querySelector` concluído**  
 > ✅ **Dia 10 — alterar conteúdo concluído**  
 > ✅ **Dia 11 — classes e estilos concluído**  
-> 🚧 **Próximo: Dia 12 — criar elementos**
+> ✅ **Dia 12 concluído**  
+> ✅ **Dia 13 concluído**  
+> ✅ **Dia 14 concluído**  
+> ✅ **Dia 15 concluído**  
+> ✅ **Dia 16 concluído**  
+> 🚧 **Próximo: Dia 17 — input**
 
-Até aqui, já pratiquei estruturas de repetição com `for` e `while`, contadores, acumuladores, operadores, condições, DOM, `querySelector`, alteração de conteúdo, `classList` e mudanças de estilo pelo JavaScript.
+Até aqui, já pratiquei estruturas de repetição com `for` e `while`, contadores, acumuladores, operadores, condições, DOM, `querySelector`, alteração de conteúdo, `classList`, criação de elementos, funções, eventos e interação por clique.
 
 ---
 
@@ -97,11 +102,11 @@ JavaScript
 - [x] Dia 9 — `querySelector`
 - [x] Dia 10 — alterar conteúdo
 - [x] Dia 11 — classes e estilos
-- [ ] Dia 12 — criar elementos
-- [ ] Dia 13 — DOM na prática
-- [ ] Dia 14 — descanso/revisão
-- [ ] Dia 15 — eventos
-- [ ] Dia 16 — click
+- [x] Dia 12 — criar elementos
+- [x] Dia 13 — DOM na prática
+- [x] Dia 14 — descanso/revisão
+- [x] Dia 15 — eventos
+- [x] Dia 16 — click
 - [ ] Dia 17 — input
 - [ ] Dia 18 — formulários
 - [ ] Dia 19 — validação
@@ -156,6 +161,22 @@ desafio-javascript-30-dias/
 ├── dia-11/
 │   ├── script.js
 │   ├── style.css
+│   └── index.html
+├── dia-12/
+│   ├── script.js
+│   └── index.html
+├── dia-13/
+│   ├── script.js
+│   └── index.html
+├── dia-14/
+│   ├── script.js
+│   └── index.html
+├── dia-15/
+│   ├── script.js
+│   ├── style.css
+│   └── index.html
+├── dia-16/
+│   ├── script.js
 │   └── index.html
 ├── historico/
 ├── .gitignore
