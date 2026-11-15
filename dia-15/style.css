@@ -1,0 +1,13 @@
+.claro {
+  background: white;
+  color: black;
+}
+
+.escuro {
+  background: black;
+  color: white;
+}
+
+.escondido {
+  display: none;
+}
